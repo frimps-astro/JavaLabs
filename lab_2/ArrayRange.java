@@ -1,4 +1,5 @@
 import java.util.Random;
+import java.util.Arrays;
 
 public class ArrayRange{
 
@@ -40,6 +41,13 @@ public class ArrayRange{
 			check = false;
 		}
 		//print elements to confirm
+		System.out.println("Before sorted");
+		for(int i:array)
+			System.out.println(i);
+
+		//modified later to add sorting
+		Arrays.sort(array);
+		System.out.println("\n After been sorted");
 		for(int i:array)
 			System.out.println(i);
 	}
