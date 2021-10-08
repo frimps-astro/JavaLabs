@@ -1,3 +1,5 @@
+package Codes.JavaLabs;
+
 import java.util.*;
 
 public class RandomLoop_{

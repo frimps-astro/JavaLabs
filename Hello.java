@@ -1,3 +1,5 @@
+package Codes.JavaLabs;
+
 public class Hello{
 	public static void main(String args[]){
 		String text = "Hello World!";

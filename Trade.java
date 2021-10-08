@@ -1,3 +1,5 @@
+package Codes.JavaLabs;
+
 public class Trade{
 	public static String id;
 	public static String symbol;
@@ -75,3 +77,5 @@ class Trader{
 	}
 	
 }
+
+

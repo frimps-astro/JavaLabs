@@ -1,3 +1,5 @@
+package Codes.JavaLabs.lab_2;
+
 class ArrayClass{
 
 	public ArrayClass(int size){

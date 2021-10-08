@@ -1,3 +1,5 @@
+package Codes.JavaLabs;
+
 import java.util.*;
 import java.util.Scanner;
 
